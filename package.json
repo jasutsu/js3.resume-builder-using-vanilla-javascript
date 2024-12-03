@@ -1,0 +1,17 @@
+{
+  "name": "js3.resume-builder-using-vanilla-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx.cmd tailwindcss -i ./learn/copy/input.css -o ./learn/copy/tailwind.css",
+    "dev:watch": "npx.cmd tailwindcss -i ./learn/copy/input.css -o ./learn/copy/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
