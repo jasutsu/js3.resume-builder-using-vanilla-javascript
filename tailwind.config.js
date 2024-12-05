@@ -3,8 +3,9 @@ module.exports = {
   content: ['./learn/**/*.{html, js}'],
   theme: {
     fontFamily: {
-      manrope: 'Manrope-Variable'
-    },
+			manrope: ['"Manrope", "sans-serif"'],
+			poppins: ['"Poppins", "sans-serif"']
+		},
     extend: {},
   },
   plugins: [],
